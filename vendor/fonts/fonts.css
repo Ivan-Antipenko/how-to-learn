@@ -6,15 +6,8 @@
 }
 
 @font-face {
-    font-family: "Inter-Bold";
-    font-weight: bold;
-    src: url(./Inter/Inter-SemiBold.woff2) format("woff2");
-    src: url(./Inter/Inter-SemiBold.woff) format("woff");
-}
-
-@font-face {
     font-family: "Inter-Bolder";
-    font-weight: bolder;
+    font-weight: bold;
     src: url(./Inter/Inter-Bold.woff2) format("woff2");
     src: url(./Inter/Inter-Bold.woff) format("woff");
 }
